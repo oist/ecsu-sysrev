@@ -1,0 +1,6 @@
+env
+preparation/data/engines_data.zip
+preparation/key.py
+preparation/tmp/*
+ws.code-workspace
+
